@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kellylikeyu
+- 👋 Hi, I’m @kellylikeyu. My personal website: https://www.kellylikeyu.com/
 - 👀 I’m interested in software engineering
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on full stack development
